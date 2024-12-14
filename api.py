@@ -964,7 +964,7 @@ class RadioReferenceAPI(Client):
 
 
 def main():
-    # rrapi = RadioReferenceAPI("SDR-Chris", "Lorem235@0258")
+    # rrapi = RadioReferenceAPI("username", "password")
     # systems = rrapi.get_all_systems(37)
     # systems.to_file("systems.json")
     # rrapi.update_file("systems.json")
